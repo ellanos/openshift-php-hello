@@ -1,3 +1,3 @@
 <?php
-  echo 'Hello from ' . gethostname() . '!';
+  echo 'Hello World, from ' . gethostname() . '!';
 ?>
